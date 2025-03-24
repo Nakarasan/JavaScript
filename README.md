@@ -1,2 +1,4 @@
 # JavaScript
-JavaScript Concepts
+
+// Run JavaScript file using Node
+node filename.js
