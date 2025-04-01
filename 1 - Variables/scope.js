@@ -39,7 +39,7 @@ if (true) {
 console.log(blockVar); // ✅ Accessible (var is NOT block-scoped)
 console.log(blockLet); // ❌ Error (let is block-scoped)
 
-// A block in JavaScript is defined by {} (e.g., inside if, for, while blocks).
+// A block in JavaScript is defined by {} (e.g, inside if, for, while blocks).
 
 
 // Hoisting Difference

@@ -9,7 +9,7 @@ console.log('High Score - Global:', highScore); // ✅ Accessible globally
 function getHighScore() {
   // Function Scope (Local scope)
   var marks = 88;
-  console.log('Marks:', marks); // ✅ Accessible inside function
+  console.log('Marks:', marks); // ✅ Accessible inside function.
 
   // Overwriting the global `highScore`
   highScore = 98;

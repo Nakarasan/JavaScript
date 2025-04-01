@@ -38,5 +38,5 @@ try {
 }
 const hoistedConst = 'I am also hoisted';
 
-// TDZ (Temporal Dead Zone) is a term used to describe the behavior of variables declared with let and const in JavaScript before they are initialized. 
+// TDZ (Temporal Dead Zone) is a term used to describe the behavior of variables declared with let and const in JavaScript before they are initialized.. 
 // In this zone, any reference to the variable will throw a ReferenceError, even though the variable is hoisted.
