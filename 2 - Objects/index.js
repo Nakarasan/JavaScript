@@ -34,7 +34,7 @@ delete person.age;
 console.log('After Deleting Age:', person);
 
 // 6. Calling Methods 
-console.log(person.greet()); // Calling object method
+console.log(person.greet()); // Calling object method.
 
 // 7. Checking Property Existence
 console.log("Has 'name':", 'name' in person);
